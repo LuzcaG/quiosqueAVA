@@ -1,0 +1,72 @@
+
+body{
+    width: 599px;
+    margin: auto;
+    padding-top : 50px;
+    padding-right: 0px;
+    padding-left: 40px;
+    background-image: linear-gradient(to right,rgb(169, 179, 41),blue);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+
+.h1{
+    background-image: linear-gradient(to right,rgb(169, 179, 37),blue);
+    color: antiquewhite;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: justify;
+
+
+}
+.tbClientes{
+    color: rgb(0, 0, 0);
+    width: 2000px;
+}
+th{
+    background-color: transparent;
+    color: white;
+
+}
+td{
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.082);
+}
+.divEstatistica{
+    text-align: left;
+    padding-left: 20px;
+    margin: 10px;
+    
+}
+#thsemana{
+    text-align: left;
+    padding-left: 24px;
+}
+
+h1{
+    font-size: 22px;
+    color: rgb(0, 238, 255);
+    text-align: center;
+    padding-left: 200   px;
+    
+}
+.thQtde{
+    padding-right: 90px;
+}
+#th{
+    font-size: 12px;
+    padding-right: 20px;
+}
+#thPeriodo{
+    font-size: 12px;
+    padding-right: 20px;
+    padding-left: 55.8px;
+}
+th{
+    color: rgb(190, 245, 255);
+}
+table{
+    padding: 20px;
+}
+#tdPeriodo{
+    padding-left: 100px;
+}
